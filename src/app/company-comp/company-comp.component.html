@@ -1,0 +1,6 @@
+<div>
+        <app-employee-comp (newItemEvent)="addItem($event)"></app-employee-comp>
+        <ul>
+            <li *ngFor="let item of items">{{item}}</li>
+        </ul>
+</div>

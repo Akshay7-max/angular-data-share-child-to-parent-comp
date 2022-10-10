@@ -1,0 +1,15 @@
+.class1{
+  height:300px;
+  width:500px;
+  background-color: indigo;
+  display: inline-block;
+  margin: 10px;
+}
+
+.class2{
+  height:100px;
+  width:200px;
+  background-color: deeppink;
+  display: inline-block;
+  margin: 10px;
+}
